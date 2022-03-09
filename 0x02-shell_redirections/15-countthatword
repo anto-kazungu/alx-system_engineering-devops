@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '[:space:]' '[\n*]' < /etc/passwd | grep -i -c mauris
+grep -o 'root' /etc/passwad | wc -l
