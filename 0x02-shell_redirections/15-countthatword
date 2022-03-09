@@ -1,0 +1,2 @@
+#!/bin/bash
+tr '[:space:]' '[\n*]' < /etc/passwd | grep -i -c mauris
