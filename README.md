@@ -1,3 +1,3 @@
-## My second project at ALX
+## Scripting In Shell
 # Description
 This folder is for shell basics.
